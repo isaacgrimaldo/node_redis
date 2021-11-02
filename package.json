@@ -1,0 +1,23 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "project to test the cache whit node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "redis": "^3.1.2",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.14"
+  }
+}
