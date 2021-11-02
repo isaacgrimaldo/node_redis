@@ -26,3 +26,4 @@ Done, ran the follow commmand  and your node server will be ready to get up
 `
 
 
+"# node_redis" 
